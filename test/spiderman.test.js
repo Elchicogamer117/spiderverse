@@ -7,7 +7,7 @@ describe("Unit test for Spiderman class", () => {
 
             //Validacion
             expect(andrewGarfield.name).toBe('The amazing spiderman')
-            expect(andrewGarfield.age).toBe(25)
+            expect(andrewGarfield.age).toBe(31)
             expect(andrewGarfield.actor).toBe('Andrew Garfield')
             expect(andrewGarfield.movies).toBe(2)
             expect(andrewGarfield.studio).toBe('Sony')
