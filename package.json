@@ -1,0 +1,29 @@
+{
+  "name": "spiderverse-tdd",
+  "version": "1.0.0",
+  "description": "Segunda practica Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"node ./node_modules/jest/bin/jest.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elchicogamer117/spiderverse-TDD.git"
+  },
+  "keywords": [
+    "Backend",
+    "TDD",
+    "Unit",
+    "test",
+    "js"
+  ],
+  "author": "elchicogamer117",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elchicogamer117/spiderverse-TDD/issues"
+  },
+  "homepage": "https://github.com/Elchicogamer117/spiderverse-TDD#readme",
+  "devDependencies": {
+    "jest": "^28.0.0"
+  }
+}
